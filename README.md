@@ -452,4 +452,4 @@ Great-circle distance (km) between two lat/lng points. Used for nearest-vehicle 
 
 ## License
 
-[Specify license if applicable]
+
