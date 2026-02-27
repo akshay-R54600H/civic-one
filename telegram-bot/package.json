@@ -1,0 +1,16 @@
+{
+  "name": "civicone-telegram-bot",
+  "version": "1.0.0",
+  "description": "CivicOne Telegram bot - Node.js (async, handles load well)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "stop-others": "bash stop-other-bots.sh"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
